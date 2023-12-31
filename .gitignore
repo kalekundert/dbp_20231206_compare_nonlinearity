@@ -1,0 +1,7 @@
+*.err
+*.out
+*.svg
+fourier*/
+gated*/
+norm*/
+cache.feather
